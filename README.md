@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Terence Mpofu
 
-🎓 MS in Data Science @ Michigan Technological University
-🎓BSc in Statistics and Operations Research
-📊 Statistician | Data Scientist | Biomedical Data Science Enthusiast | Data Analyst  
-🏥 Interested in the intersection of healthcare, AI, and business analytics  
+- 🎓 MS in Data Science @ Michigan Technological University
+- 🎓BSc in Statistics and Operations Research
+- 📊 Statistician | Data Scientist | Biomedical Data Science Enthusiast | Data Analyst  
+- 🏥 Interested in the intersection of healthcare, AI, and business analytics  
 
 ---
 
@@ -46,25 +46,13 @@
 ## 🛠️ Tech Stack
 
 **Languages:**  
-Python • SQL
+Python • SQL • SQLite
 **Data Science & ML:**  
 pandas • scikit-learn • TensorFlow • Keras • NumPy  
-
-**Other Data Tools:**  
-Neo4j • MySQL • SQLite • Power BI • Excel   
-Git • VS Code • LaTeX • Linux
-
+  
 ---
 
 ## 📫 How to reach me
 - 💼 LinkedIn: *(https://linkedin.com/terencempofu7 )*  
 - 📧 Email: *(ttmpofu@mtu.edu )*  
 
----
-
-## ⚡ Fun fact
-I enjoy combining machine learning, healthcare analytics, and business insight to build practical, data-driven solutions.
-
----
-
-⭐️ *Always learning. Always building. Always curious.*
