@@ -17,9 +17,7 @@
 ## 🌱 I’m currently learning
 - Advanced Deep Learning & CNN architectures  
 - Transfer Learning and Fine-Tuning strategies  
-- Large Language Models (LLMs) for healthcare applications  
-- Scalable ML pipelines and MLOps  
-- Healthcare business analytics  
+- Large Language Models (LLMs) for healthcare applications 
 
 ---
 
@@ -40,8 +38,7 @@
 
 ## 💬 Ask me about
 - Machine Learning & Data Mining  
-- Python, SQL, and data pipelines  
-- Healthcare analytics  
+- Python, SQL 
 - Transitioning from traditional statistics to data science  
 
 ---
@@ -53,10 +50,8 @@ Python • SQL
 **Data Science & ML:**  
 pandas • scikit-learn • TensorFlow • Keras • NumPy  
 
-**Data Engineering & Tools:**  
-Neo4j • MySQL • SQLite • Power BI • Excel  
-
-**Other:**  
+**Other Data Tools:**  
+Neo4j • MySQL • SQLite • Power BI • Excel   
 Git • VS Code • LaTeX • Linux
 
 ---
