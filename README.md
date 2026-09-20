@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Terence Mpofu
 
 🎓 MS in Data Science @ Michigan Technological University
+🎓 BSc in Statistics and Operations Research
 📊 Statistician | Data Scientist | Biomedical Data Science Enthusiast
 
 🏥 Interested in **Healthcare AI, Biomedical Data Science, Medical Imaging, and Analytics**.
@@ -25,3 +26,6 @@
 
 💼 [LinkedIn](https://linkedin.com/terencempofu7)
 📧 [ttmpofu@mtu.edu](mailto:ttmpofu@mtu.edu)
+📧 [terencempofu701@gmail.com](mailto:terencempofu701@gmail.com)
+
+
